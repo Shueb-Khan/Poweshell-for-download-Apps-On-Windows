@@ -3,7 +3,7 @@ If the Microsoft Store is blocked or unavailable, you can manually download the 
 
 Copy the Microsoft Store URL for WhatsApp: https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH
 
-Visit store.rg-adguard.net Paste the URL and click the checkmark.
+Visit https://store.rg-adguard.net Paste the URL and click the checkmark.
 
 Download the latest .msixbundle file (around 90MB). Right-click → “Save link as…”
 
