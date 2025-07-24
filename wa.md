@@ -19,7 +19,7 @@ To install Microsoft.UI.Xaml.2.8, especially if you're trying to satisfy a depen
 🧱 Option 1: Install via PowerShell (Offline Method)
 If you’ve downloaded the .appx file manually:
 
-Download the Appx Package You can find it on the https://NuGet Gallery for Microsoft.UI.Xaml.. Look for version 2.8.x and download the .nupkg file.
+Download the Appx Package You can find it on the (https://www.nuget.org/packages/Microsoft.UI.Xaml/).. Look for version 2.8.x and download the .nupkg file.
 
 Extract the Appx File
 
